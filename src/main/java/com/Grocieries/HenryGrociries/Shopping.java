@@ -18,7 +18,6 @@ import java.util.Scanner;
 public class Shopping {
 
 
-	private Scanner input = null;
 	NumberFormat nf = NumberFormat.getInstance();
 	public static void main(String[] args) {
 		Shopping shoppingDetails = new Shopping();
